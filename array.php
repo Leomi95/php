@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php
- $empleados = array(‘Ian’,‘Dario’,‘Gabriel’,‘Lucas’,‘Maru’);
+ $empleados = array('Ian','Dario','Gabriel','Lucas','Mar');
  ?>
  <h1>Listado de Empleados</h1>
  <ul>
