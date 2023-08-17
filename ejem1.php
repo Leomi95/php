@@ -3,4 +3,5 @@
  if($conex){
     echo "conexion exitosa";
  }
+ echo "hoa";
 ?>
